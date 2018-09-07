@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to Samuelfales GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/SamuelFales/samuelfales.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Profile 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+•	Bachelor Degree in Computer Science; </br>
+•	Specialization course in Software Engineering; </br>
+•	Senior Software Developer / Functional Analyst / Software Designer; </br>
+•	10+ years of experience as .NET Analyst/Developer; </br>
+•	Solid experience with T-SQL using SQL Server;</br>
 
-### Markdown
+### Professional Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+•	Software professional having around 10+ years of experience in software analysis, designs and development.</br>
+•	Having good knowledge and experience in developing and designing application on .NET platform.</br>
+•	Experience in developing Enterprise application in Agile SCRUM methodology.</br>
+•	Having strong knowledge and experience working with SQL Development (database triggers, functions, stored procedures and written SQL queries)</br>
 
-```markdown
-Syntax highlighted code block
+•	ASP.NET MVC, WebForms</br>
+•	.NET Framework</br>
+•	SQL Server, My SQL</br>
+•	SSRS, Power BI</br>
+•	HTML, CSS, JavaScript</br>
+•	GIT, SVN</br>
+•	Jira, Confluence</br>
+•	WCF, RestFul API, Dapper, </br>
+•	Spring.NET, Simple Injector, Fluent, Common Logging, Quartz.NET</br>
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SamuelFales/samuelfales.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[LinkedIn](https://www.linkedin.com/in/samuelfales/)
