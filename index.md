@@ -28,5 +28,5 @@
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/samuelfales/)
+[LinkedIn](https://www.linkedin.com/in/samuelfales/) </br>
 [Professional github account](https://github.com/samfales))
