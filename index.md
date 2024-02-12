@@ -29,4 +29,4 @@
 ### Contact
 
 [LinkedIn](https://www.linkedin.com/in/samuelfales/) </br>
-[Professional github account](https://github.com/samfales))
+[Professional github account](https://github.com/samfales)
