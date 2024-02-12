@@ -10,21 +10,23 @@
 
 ### Professional Skills
 
-•	Software professional having around 10+ years of experience in software analysis, designs and development.
+•	Software professional having around 10+ years of experience in software analysis, design and development.
 •	Having good knowledge and experience in developing and designing application on .NET platform.
 •	Experience in developing Enterprise application in Agile SCRUM methodology.
-•	Having strong knowledge and experience working with SQL Development (database triggers, functions, stored procedures and written SQL queries)</br>
+•	Having strong knowledge and experience working with SQL Development (database triggers, functions, stored procedures and written SQL queries)
 
-•	ASP.NET MVC, WebForms
-•	.NET Framework
-•	SQL Server, My SQL
-•	SSRS, Power BI
+•	ASP.NET MVC, WebForms, Web API
+•	.NET Framework, NET Core
+•	SQL Server, My SQL, Elastic Search
+•	Rabbit MQ, Redis, Kafka
+•	Kibana, Grafana, Datadog
 •	HTML, CSS, JavaScript
 •	GIT, SVN
 •	Jira, Confluence
-•	WCF, RestFul API, Dapper, 
+•	RestFul API, Dapper, 
 •	Spring.NET, Simple Injector, Fluent, Common Logging, Quartz.NET
 
 ### Contact
 
 [LinkedIn](https://www.linkedin.com/in/samuelfales/)
+[Professional github account](https://github.com/samfales))
